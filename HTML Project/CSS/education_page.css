@@ -1,0 +1,87 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-image: url(../Image/WebsiteBackground.jpeg);
+    padding: 5%;
+}
+
+.background h1 {
+    text-align: center;
+    font-size: 400%;
+
+}
+
+
+
+
+
+
+a.mainpage {
+    text-decoration: none;
+    margin-left: 47%;
+    color: black;
+    font-size: larger;
+    border: black 2px solid;
+    padding: 3px;
+    /* margin-bottom: 10%; */
+}
+
+
+a:hover {
+    color: rgb(115, 113, 200);
+}
+
+img.logo {
+    /* float: left; */
+    width: 10%;
+    margin-left: 5%;
+    border: black solid;
+}
+
+.University_intro p {
+    font-size: 170%;
+
+}
+
+.University_intro {
+    margin-left: 5%;
+    width: 70%;
+    margin-top: 0%;
+    border: black solid 2px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.line-1 {
+    height: 2px;
+    background: black;
+}
+
+.University {
+    margin-top: 5%;
+}
+
+p.hint {
+    color: #ff8800;
+    font-size: 120%;
+    margin-left: 5%;
+}
+
+.High_School {
+    margin-top: 5%;
+}
+
+.High_School_intro p {
+    font-size: 170%;
+}
+
+.High_School_intro {
+    margin-left: 5%;
+    width: 70%;
+    margin-top: 0%;
+    border: black solid 2px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
