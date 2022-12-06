@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-image: url(../Image/WebsiteBackground.jpeg);
+    padding: 5%;
+}
+
+.background h1 {
+    text-align: center;
+    font-size: 400%;
+
+}
+
+a {
+    text-decoration: none;
+    margin-left: 45%;
+    color: black;
+    font-size: larger;
+    border: black 2px solid;
+    padding: 3px;
+}
+
+a.git {
+    margin-left: 41%;
+}
+
+a:hover {
+    color: rgb(115, 113, 200);
+}
